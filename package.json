@@ -1,0 +1,28 @@
+{
+  "name": "react-js",
+  "version": "1.0.0",
+  "description": "This is reactjs day2",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newrizwankhan/day2.git"
+  },
+  "keywords": [],
+  "author": "Rizwan khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/newrizwankhan/day2/issues"
+  },
+  "homepage": "https://github.com/newrizwankhan/day2#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
